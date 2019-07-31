@@ -1,0 +1,8 @@
+name: Fuckidiot
+version: 1.0-SNAPSHOT
+main: stu.wulinworks.fuckidiot
+api-version: 1.13
+commands:
+  wl:
+    description: nothing
+    usage: /wl <jail> <Player> <tick>

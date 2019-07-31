@@ -1,0 +1,8 @@
+name: Fuckidiot
+version: ${project.version}
+main: stu.wulinworks.fuckidiot
+api-version: 1.13
+commands:
+  wl:
+    description: nothing
+    usage: /wl <jail> <Player> <tick>
